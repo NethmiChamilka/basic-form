@@ -11,7 +11,6 @@
         @csrf
         <label for="name">Name:</label>
         <input type="text" id="name" name="name" required><br><br>
-
         <button type="submit">Save</button>
     </form>
 </body>
